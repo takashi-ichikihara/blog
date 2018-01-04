@@ -16,8 +16,11 @@ Entre outros projetos parelelos eu tive a Olhar na Web e a Mildisparos que era u
 O pouco que sei ,darei dicas de programação web mais para o lado front-end, códigos do meu dia a dia , testes com cms diferentes, eventos e tudo da área de programação.
 
 Fiquem com Deus !, até o próximo post!
-Takashi Ichikihara
-Programador Front-end
-Cento e Vinte
+<br/>
+Takashi Ichikihara <br/>
+Programador Front-end <br/>
+[Cento e Vinte][cento-e-vinte]
+
+[cento-e-vinte]:http://centoevinte.com.br
 
 
